@@ -7,7 +7,7 @@
    * 1 Release manager
 3. Fork del repositorio
    * <https://github.com/isanchezf/TechLabGitFlow.git>
-4. Clonar repositorio copia.
+4. Clonar repositorio copia.//
 5. Validar que existan ramas Main y Dev
 6. Validar que esten bloqueadas o que no permitan subir cambios directamente.
 7. Developer 1 crea rama feature_1
